@@ -1,0 +1,18 @@
+=== PPA Text Integrity Report ===
+work_id: aeu.ark:/13960/t0ft9gj3x
+
+Source: HathiTrust
+Title: Treatise on French pronunciation and genders
+
+Expected page count: 122
+Actual page count:   122
+Order range:         [1, 122]
+Empty text pages:    2
+
+Checks:
+  [PASS] page_count: Page count: expected 122, got 122
+  [PASS] continuous_order: Order is continuous (1..122).
+  [PASS] no_duplicate_orders: No duplicate orders.
+  [FAIL] no_empty_text: Empty text pages: 2
+
+Overall: FAIL

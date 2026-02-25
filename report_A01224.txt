@@ -1,0 +1,18 @@
+=== PPA Text Integrity Report ===
+work_id: A01224
+
+Source: EEBO-TCP
+Title: The Arcadian rhetorike: or The præcepts of rhetorike made plaine by examples
+
+Expected page count: 158
+Actual page count:   158
+Order range:         [1, 158]
+Empty text pages:    0
+
+Checks:
+  [PASS] page_count: Page count: expected 158, got 158
+  [PASS] continuous_order: Order is continuous (1..158).
+  [PASS] no_duplicate_orders: No duplicate orders.
+  [PASS] no_empty_text: No empty text pages.
+
+Overall: PASS

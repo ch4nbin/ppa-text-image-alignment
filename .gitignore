@@ -14,3 +14,7 @@ venv/
 .idea/
 .vscode/
 .DS_Store
+
+# Data (keep folder + README, ignore large files)
+/data/*
+!/data/README.md
